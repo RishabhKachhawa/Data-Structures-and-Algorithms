@@ -4,7 +4,7 @@ class Solution {
         int arr[] = new int[k];
         int j = 0;
         k = k % n;
-        if(k==0 || n == 1){
+        if(k==0 ){
             return;
         }
         for(int i=n-k; i<n ; i++){
