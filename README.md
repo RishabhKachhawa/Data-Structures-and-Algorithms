@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
