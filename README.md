@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/RishabhKachhawa/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
